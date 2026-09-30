@@ -1,0 +1,76 @@
+{
+  "app": {
+    "name": "KisanMitra AI",
+    "tagline": "Smart Agriculture Advisory for Indian Farmers",
+    "subtitle": "Region-aware, season-aware, safety-conscious crop advisory powered by AI."
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "farms": "My Farms",
+    "newAdvisory": "Get Advice",
+    "history": "History",
+    "profile": "Profile",
+    "login": "Login",
+    "signup": "Sign Up",
+    "logout": "Logout"
+  },
+  "modules": {
+    "crop_recommendation": {
+      "title": "Crop Recommendation",
+      "desc": "Find the most profitable and suitable crops for your soil, season, and water."
+    },
+    "fertilizer_plan": {
+      "title": "Fertilizer & Nutrient Plan",
+      "desc": "Stage-wise organic and chemical nutrient schedule customized for your crop."
+    },
+    "irrigation_schedule": {
+      "title": "Irrigation Schedule",
+      "desc": "Precise watering schedule and water-saving methods for optimal yield."
+    },
+    "pest_disease_diagnosis": {
+      "title": "Pest & Disease Diagnosis",
+      "desc": "Identify leaf/plant damage with symptoms and photo diagnosis."
+    },
+    "seasonal_calendar": {
+      "title": "Seasonal Crop Calendar",
+      "desc": "Month-by-month agricultural operations from sowing to harvest."
+    },
+    "harvest_postharvest": {
+      "title": "Harvest & Post-Harvest",
+      "desc": "Safe harvesting, drying, safe storage, and post-harvest loss prevention."
+    }
+  },
+  "dashboard": {
+    "welcome": "Welcome back, {{name}}!",
+    "quota_title": "Daily AI Advisory Quota",
+    "quota_remaining": "{{remaining}} of {{limit}} advisories left today",
+    "resets_in": "Resets at midnight IST",
+    "my_farms": "My Registered Farms",
+    "quick_advisory": "Choose an Advisory Module",
+    "recent_advisories": "Recent Advisories",
+    "view_all": "View All History",
+    "no_farms_yet": "No farms registered yet. Add your first farm to enable accurate recommendations.",
+    "add_farm_btn": "Add Farm",
+    "onboarding_title": "Set up your farm profile",
+    "onboarding_desc": "Adding your soil type, irrigation source, and district will help AI deliver pinpoint accurate advice."
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "submit": "Submit",
+    "edit": "Edit",
+    "delete": "Delete",
+    "loading": "Loading...",
+    "generating": "Analyzing with Gemini AI...",
+    "back": "Back",
+    "acres": "Acres",
+    "view": "View",
+    "download_pdf": "Download / Print",
+    "language": "Language",
+    "risk_level": "Risk Level",
+    "confidence": "AI Confidence",
+    "safety_first": "Safety Caution & Guidelines",
+    "expert_consult_needed": "Consult a Local Agricultural Officer (KVK) for verification before taking critical action.",
+    "demo_mode": "Demo Mode Active (Local Sandbox)"
+  }
+}
